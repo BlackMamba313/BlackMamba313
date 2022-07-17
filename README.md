@@ -6,8 +6,8 @@
 ✉️ &nbsp;Вы можете отправить мне электронное письмо по адресу  avsingh@umass.edu! Я постараюсь ответить, как только смогу.\
 📄 &nbsp;Пожалуйста, взгляните на мое [Résumé](https://www.adityavsingh.com/resume.html) для получения более подробной информации обо мне. Я открыт для отзывов и предложений!\
 🤝🏻 &nbsp;Связаться со мной можно :\
-Telegramm - @AleksKonstant\
-VK - https://www.vk.com/id264324205.\
+Telegramm - @AleksKonstant \
+VK - https://www.vk.com/id264324205. \
 linkedin - https://www.linkedin.com/in/alexey-konstantinov-9ba656208/
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
