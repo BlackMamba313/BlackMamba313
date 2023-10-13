@@ -1,11 +1,11 @@
-### Всем привет! 👋 Меня зовут Алексей
+### Hello everyone! 👋 My name is Alexey
 
-💡 &nbsp;Мне нравится программирование, потому что мне интересно что-то создавать, делать пользовательский интерфейс живым и дружелюбным.\
-🎓 &nbsp;Постоянно практикуюсь и изучаю новые Front-end технологии.\
-🌱 &nbsp;В настоящее время я ищу работу Front-end разработчика.\
-✉️ &nbsp;Вы можете отправить мне электронное письмо по адресу  applejack66@yandex.ru ! Я постараюсь ответить, как только смогу.\
-📄 &nbsp;Пожалуйста, взгляните на мое [Резюме](https://taganrog.hh.ru/resume/a77373e4ff04866c930039ed1f7153366b6951) для получения более подробной информации обо мне. Я открыт для отзывов и предложений!\
-🤝🏻 &nbsp;Связаться со мной можно :\
+💡 &nbsp;I like programming because I'm interested in creating something, making the user interface lively and friendly.\
+🎓 &nbsp;I am constantly practicing and learning new Front-end technologies.\
+🌱 &nbsp;I am currently looking for a Front-end developer job.\
+✉️ &nbsp;You can send me an email at applejack66@yandex.ru ! I'll try to answer as soon as I can.\
+📄 &nbsp;Please take a look at my [Resume](https://taganrog.hh.ru/resume/a77373e4ff04866c930039ed1f7153366b6951) for more information about me. I am open for feedback and suggestions!\
+🤝🏻 &nbsp;You can contact me :\
 [Telegramm](https://t.me/AleksKonstant) \
 [VK](https://www.vk.com/id264324205) \
 [linkedin](https://www.linkedin.com/in/alexey-konstantinov-9ba656208) 
